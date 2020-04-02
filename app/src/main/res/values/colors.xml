@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4527a0</color>
+    <color name="colorPrimaryDark">#311b92</color>
+    <color name="colorAccent">#3f51b5</color>
+
+    <color name="filter_button_color">#7986cb</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+</resources>
